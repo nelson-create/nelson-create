@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelson-create
-- 👀 I’m interested in HTML ,CSS ,JS 
-- 🌱 I’m currently learning Node Js, Angular , HTML ,CSS
+- 👀 I’m interested in Full Stack Web Development.
+- 🌱 I’m currently learning MERN Stack , HTML , CSS , JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via valankaninelson@gmail.com
 - ⚡ Fun fact: Scratch it unless it doesnt leave any marks .
