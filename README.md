@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nelson-create
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning MERN Stack , HTML , CSS , JS 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full-stack roles 
 - 📫 How to reach me via valankaninelson@gmail.com
 - ⚡ Fun fact: Scratch it unless it doesnt leave any marks .
 
